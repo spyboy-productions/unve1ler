@@ -17,7 +17,7 @@
   
 </p>
 
-<img width="100%" align="centre" src="[https://cdn.discordapp.com/attachments/1141162711464550430/1141163296133763082/unve1ler.png](https://cdn.discordapp.com/attachments/1141162711464550430/1141163296133763082/unve1ler.png)" />
+<img width="100%" align="centre" src="https://cdn.discordapp.com/attachments/1141162711464550430/1141163296133763082/unve1ler.png" />
 
 <h4 align="center"> Revealing Digital Footprints and Visual Clues on the Internet. </h4>
 
