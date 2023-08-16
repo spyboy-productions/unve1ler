@@ -25,6 +25,26 @@ A social engineering tool designed to seamlessly locate profiles using usernames
 
 <h4 align="center"> This tool is a Proof of Concept and is for Educational Purposes Only. </h4> 
 
+---
+### Features
+
+```diff
++ Find target profile on social media platforms within a few seconds
++ Perform a search on 100+ website
++ Get reverse image search link for the target image
++ provides multiple search url
++ Threading - run multiple tasks, function calls at the same time
+```
+
+### Limitation
+
+```diff
+
+- Just a proof of concept
+- There can be false positive links
+
+```
+
 <h4 align="center">
   OS compatibility :
   <br><br>
