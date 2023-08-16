@@ -26,14 +26,23 @@ A social engineering tool designed to seamlessly locate profiles using usernames
 <h4 align="center"> This tool is a Proof of Concept and is for Educational Purposes Only. </h4> 
 
 ---
-### Features
+unve1ler is a potent social engineering tool tailored to unmask digital footprints and visual clues scattered across the vast expanse of the internet. This tool enables users to seamlessly locate online profiles by inputting usernames, coupled with an innovative reverse image search feature, adding a layer of convenience to the investigative process.
 
-```diff
-+ Find target profile on social media platforms within a few seconds
-+ Perform a search on 100+ website
-+ Get reverse image search link for the target image
-+ provides multiple search url
-+ Threading - run multiple tasks, function calls at the same time
+unve1ler begins its quest by conducting in-depth profile searches across a range of popular platforms. These platforms include prominent social media networks, professional platforms, creative spaces, and more. The tool threads its way through an array of URLs to identify the presence of the target username. Each detected profile is displayed alongside its respective platform, offering users a streamlined view of the online personas associated with the username.
+
+To amplify its investigative prowess, unve1ler offers an option for reverse image searches. Users can input image links, and the tool then generates URLs that facilitate reverse image searches on leading search engines, including Google, Bing, Yandex, and Baidu. This functionality empowers users to identify additional online appearances of the target individual through images.
+
+Whether for security professionals, ethical hackers, or curious individuals, unve1ler offers a user-friendly and comprehensive solution to unravel the intricate digital footprints and visual clues that individuals leave across the internet.
+
+### Key Features:
+```yaml
++ Profile Discovery: Search for target usernames across a diverse range of online platforms, from social networks to creative and professional spaces.
+
++ Reverse Image Search: Seamlessly perform reverse image searches on images associated with the target username, unveiling potential online appearances.
+
++ Efficient Multi-Threading: Utilize threading to efficiently search across multiple platforms, expediting the reconnaissance process.
+
++ Results Summary: Display a comprehensive summary of the reconnaissance results, including time taken, profiles found, timeouts, and errors.
 ```
 
 ### Limitation
