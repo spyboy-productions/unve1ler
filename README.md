@@ -78,5 +78,8 @@ pip3 install -r requirements.txt
 #### 💬 If having issue [Chat here](https://discord.gg/ZChEmMwE8d)
 [![Discord Server](https://discord.com/api/guilds/726495265330298973/embed.png)](https://discord.gg/ZChEmMwE8d)
 ```
+
+### ⭔ Snapshots
+---
 python3 unve1ler.py
 ```
