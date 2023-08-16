@@ -182,18 +182,18 @@ def check_social_media(username, image_link=None):
     timeouts = sum(1 for value in results.values() if value is None and value is not False)
     errors = sum(1 for value in results.values() if value is False)
 
-    print("-------------------------------------------------------")
-    print(f"{G}[+] {C}Target: {W}{username}")
-    print(f"{G}[+] {C}Looked through: {W}{len(platforms)} websites")
-    print(f"{G}[+] {C}Time taken: {W}{elapsed_time:.2f} seconds")
-    print(f"{G}[+] {C}Date: {W}{formatted_date}")
-    print(f"{G}[+] {C}Profiles found: {W}{found_count}")
-    print(f"{G}[-] {C}Timeouts: {W}{timeouts}")
-    print(f"{G}[-] {C}Errors: {W}{errors}\n")
-    print(f"{G}[+] {Y}Found URLs (Note: there can be false positive links):\n")
+    print("-------------------------------------------------------\n")
+    print(f"{C}[+] {R}Target: {W}{username}")
+    print(f"{C}[+] {R}Looked through: {W}{len(platforms)} websites")
+    print(f"{C}[+] {R}Time taken: {W}{elapsed_time:.2f} seconds")
+    print(f"{C}[+] {R}Date: {W}{formatted_date}")
+    print(f"{C}[+] {R}Profiles found: {W}{found_count}")
+    print(f"{C}[-] {R}Timeouts: {W}{timeouts}")
+    print(f"{C}[-] {R}Errors: {W}{errors}\n")
+    print(f"{C}[+] {Y}Found URLs ({R}Note: there can be false positive links):\n")
     for platform, url in results.items():
         if url:
-            print(f"{platform}: {url}")
+            print(f"{Y}{platform}: {G}{url}")
 
     if image_link:
         print(f'\n{W}[+] {C}Reverse Image Search URLs:\n')
@@ -207,22 +207,22 @@ def check_social_media(username, image_link=None):
 
 def main():
     print_banners()
-    target_username = input('Target Username: ')
+    target_username = input(f'{C}Target Username: ')
 
     if not target_username:
         print(f"{R}Error: Target username not provided.{W}")
         return
 
-    response = input("Do you have any image of the target? (yes/no): ").lower()
+    response = input(f"{Y}Do you have any image of the target? (yes/no): ").lower()
 
     if response == "yes":
-        image_link = input("Great! Type/paste the image link: ")
+        image_link = input(f"{G}Great! Type/paste the image link: ")
 
         try:
             response = requests.get(image_link, timeout=5)
 
             if response.status_code == 200:
-                print('Reverse image URL will be printed in the end.')
+                print(f'{W}Reverse image URL will be printed in the end.')
 
             else:
                 print("Invalid image link.")
