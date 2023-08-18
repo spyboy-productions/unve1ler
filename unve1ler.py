@@ -30,7 +30,8 @@ banner = r'''
 |  |  \/    \  \/ // __ \|   |  | _/ __ \_  __ \
 |  |  /   |  \   /\  ___/|   |  |_\  ___/|  | \/
 |____/|___|  /\_/  \___  >___|____/\___  >__|   
-           \/          \/              \/       
+           \/          \/              \/
+        Revealing Digital Footprints and Visual Clues on the Internet.       
                                                 
 '''
 
