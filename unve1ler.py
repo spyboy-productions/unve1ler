@@ -49,6 +49,7 @@ def print_banners():
     print(f'{G} ╰➤ {Y}Discord      : {W}{discord}')
     print(f'{G} ╰➤ {Y}Website      : {W}{website}')
     print(f'{G} ╰➤ {Y}Blog         : {W}{blog}\n')
+    print(f'{G} ╰➤ {Y}Github       : {W}{github}\n')
 
 
 def check_platform(username, platform, url, results):
