@@ -93,7 +93,14 @@ python3 unve1ler.py
 
 Contributions and feature requests are welcome! If you encounter any issues or have ideas for improvement, feel free to open an issue or submit a pull request.
 
-#### 💬 If having issue [Chat here](https://discord.gg/ZChEmMwE8d)
+#### ToDo:
+
+- email info search
+- separate file to search mail, username, image, wordlist
+- run as a proxy to avoid rate limit
+- use TinyURL for image serch url
+
+#### 💬 If having an issue [Chat here](https://discord.gg/ZChEmMwE8d)
 [![Discord Server](https://discord.com/api/guilds/726495265330298973/embed.png)](https://discord.gg/ZChEmMwE8d)
 
 ### ⭔ Snapshots:
