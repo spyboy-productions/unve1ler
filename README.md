@@ -17,7 +17,7 @@
   
 </p>
 
-<img width="100%" align="centre" src="https://cdn.discordapp.com/attachments/1141162711464550430/1141300170584240228/Copy_of_Cream_Brown_Aesthetic_New_Product_Skincare_Canvas_Banner.png" />
+<img width="100%" align="centre" src="https://github.com/spyboy-productions/unve1ler/blob/main/snapshots/unve1ler..png" />
 
 <h4 align="center"> Revealing Digital Footprints and Visual Clues on the Internet. </h4>
 
@@ -106,8 +106,8 @@ Contributions and feature requests are welcome! If you encounter any issues or h
 ### ⭔ Snapshots:
 ---
 
-<img width="100%" align="centre" src="https://cdn.discordapp.com/attachments/1141162711464550430/1141174801256431706/Screenshot_2023-08-16_at_6.28.15_AM.png" />
-<img width="100%" align="centre" src="https://cdn.discordapp.com/attachments/1141162711464550430/1141174801751347431/Screenshot_2023-08-16_at_6.28.36_AM.png" />
-<img width="100%" align="centre" src="https://cdn.discordapp.com/attachments/1141162711464550430/1141174802325979196/Screenshot_2023-08-16_at_6.28.54_AM.png" />
+<img width="100%" align="centre" src="https://github.com/spyboy-productions/unve1ler/blob/main/snapshots/Screenshot_2023-08-16_at_6.28.15_AM.png" />
+<img width="100%" align="centre" src="https://github.com/spyboy-productions/unve1ler/blob/main/snapshots/Screenshot_2023-08-16_at_6.28.36_AM.png" />
+<img width="100%" align="centre" src="https://github.com/spyboy-productions/unve1ler/blob/main/snapshots/Screenshot_2023-08-16_at_6.28.54_AM.png" />
 
 <h4 align="center"> If you find this GitHub repo useful, please consider giving it a star! ⭐️ </h4> 
